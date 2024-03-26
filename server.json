@@ -1,28 +1,52 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de Sites",
-            "type": "income",
-            "category": "Venda",
-            "price": 14000,
-            "createdAt": "2024-03-25T16:33:42.685Z"
-        },
-        {
-            "id": 2,
-            "description": "Hamburger",
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 60,
-            "createdAt": "2024-03-25T16:30:42.685Z"
-        },
-        {
-            "id": 3,
-            "description": "Ignite RocketSeat",
-            "type": "outcome",
-            "category": "Educação",
-            "price": 1980,
-            "createdAt": "2024-03-25T19:24:44.585Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de Sites",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-03-25T16:33:42.685Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2024-03-25T16:30:42.685Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite RocketSeat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2024-03-25T19:24:44.585Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-03-26T17:21:21.091Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel",
+      "price": 1500,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-03-26T17:41:25.284Z",
+      "id": 5
+    },
+    {
+      "description": "Pastel",
+      "price": 15,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-03-26T17:41:52.650Z",
+      "id": 6
+    }
+  ]
 }
